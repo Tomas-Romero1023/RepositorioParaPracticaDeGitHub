@@ -6,4 +6,4 @@ cambios desde la terminal
 
 un commit mas desde git hub
 
-ptra actualizacion
+otra actualización
