@@ -7,3 +7,5 @@ cambios desde la terminal
 un commit mas desde git hub
 
 otra actualización
+
+// cada dos días 
