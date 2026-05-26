@@ -8,6 +8,6 @@ un commit mas desde git hub
 
 otra actualización
 
-// cada dos días 
+// cada dos días
 
-camvios desde la rama Dev01
+cambios desde la rama Dev01
